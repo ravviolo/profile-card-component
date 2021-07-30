@@ -1,0 +1,10 @@
+/* font-family: 'Kumbh Sans', sans-serif; */
+/* font-weight: 400/700 */
+
+/* Colors */
+:root {
+    --bg: hsl(185, 75%, 39%)
+    --title: hsl(229, 23%, 23%)
+    --text: hsl(227, 10%, 46%)
+    --border: hsl(0, 0%, 59%)
+}
