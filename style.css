@@ -52,10 +52,10 @@ p {
 }
 .card {
   position: relative;
-  height: 60%;
+  height: 23rem;
   border-radius: 20px;
   width: 85%;
-  max-width: 300px;
+  max-width: 340px;
   background-color: #fff;
 }
 
