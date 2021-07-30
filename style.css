@@ -72,7 +72,7 @@ header {
   padding-right: 5px;
 }
 .card__title {
-  margin: 0.8em;
+  margin: 1em 0 .6em;
 }
 .card__profile p {
   font-size: 14px;
@@ -100,6 +100,6 @@ footer::before {
 }
 .card__stats span {
   font-size: 10px;
-  margin-top: 5px;
+  margin-top: 8px;
   letter-spacing: 2px;
 }
